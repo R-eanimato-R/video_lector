@@ -1,0 +1,17 @@
+# Секреты и настройки
+.env
+*.env.local
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш и временные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Файлы PyCharm
+.idea/
+*.iml
